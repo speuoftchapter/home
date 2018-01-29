@@ -1,0 +1,26 @@
+{
+  "name": "spe-website",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://peterbacalso.github.io/speuoftchapter",
+  "dependencies": {
+    "gh-pages": "^1.1.0",
+    "history": "^4.7.2",
+    "react": "^16.2.0",
+    "react-bootstrap": "^0.31.5",
+    "react-dom": "^16.2.0",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.0.17",
+    "react-sidebar": "^2.3.2",
+    "react-vertical-timeline-component": "^2.0.3"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
