@@ -1,0 +1,19 @@
+.ButtonMain.orange {
+  background: #FF7F00;
+}
+
+.ButtonMain.purple {
+  background: #8e44ad;
+}
+
+.ButtonMain.turquoise {
+  background: #1abc9c;
+}
+
+.ButtonMain.red {
+  background: #e74c3c;
+}
+
+ButtonMain {
+  background: #e74c3c;
+}
