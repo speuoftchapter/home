@@ -11,6 +11,7 @@ import Initiatives from './components/initiatives'
 import Philosophy from './components/philosophy'
 import Sponsors from './components/sponsors'
 import Contact from './components/contact'
+import Team from './components/team'
 
 class Main extends React.Component { 
   render() {
@@ -18,11 +19,12 @@ class Main extends React.Component {
       <div>
         <SideBar />
         <div className="w3-padding-large" id="main">
-        <Route exact path="/" component={Header} />
+        <Route exact path="/home" component={Header} />
         <Route path="/philosophy" component={Philosophy} />
         <Route path="/initiatives" component={Initiatives} />
         <Route path="/contact" component={Contact} />
         <Route path="/sponsors" component={Sponsors} />
+        <Route path="/team" component={Team} />
         </div>
         <Footer />
       </div>
