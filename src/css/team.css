@@ -1,20 +1,24 @@
 h1.team-title{
-color: #C4D73B;
+	color: #C4D73B;
 }
 h3.team-member{
-color: #C4D73B;
+	color: #C4D73B;
 }
 h3.member-role{
-color: #505718;
+	color: #505718;
 }
 p.member-description{
 
 }
 #logo{
-color: #505718;
-left: 20px;
+	color: #505718;
+	position: relative;
+	right: 20px;
 }
-
+#logo-info{
+	position: relative;
+	left: 30px;
+}
 img{
 
 }

@@ -15,20 +15,19 @@ class Team extends React.Component {
 				<p className="member-description"> Bacon ipsum dolor amet ham tongue beef strip steak, 
 				tenderloin ground round fatback flank spare ribs rump pork loin bresaola 
 				short ribs ham hock. 
-				<p>
+				<p id = "logo-info">
 				<i className="fas fa-phone w3-xlarge" id = "logo"></i>
 				500 600 700
 				</p>
-				<p>
+				<p id = "logo-info">
 				<i className="far fa-envelope w3-xlarge" id = "logo"></i>
 				Doge.Boss@CheesecakeForLife.ca
 				</p>
-				<p>
+				<p id = "logo-info">
 				<i className="fab fa-linkedin w3-xlarge" id = "logo"></i>
 				Doge needs no profile.
 				</p>
 				</p>
-
 
 				<h3 className="team-member"> Person B </h3>
 				<h3 className="member-role"> Executive Member </h3>
@@ -36,14 +35,14 @@ class Team extends React.Component {
 				tenderloin ground round fatback flank spare ribs rump pork loin bresaola 
 				short ribs ham hock. 
 				</p>
-				<p>
+				<p id = "logo-info">
 				<i className="fas fa-phone w3-xlarge" id = "logo"></i>
 				500 600 700
 				</p>
-				<p>
+				<p id = "logo-info">
 				<i className="far fa-envelope w3-xlarge" id = "logo"></i>
 				</p>
-				<p>
+				<p id = "logo-info">
 				<i class="fab fa-linkedin w3-xlarge" id = "logo"></i>
 				</p>
 
@@ -54,15 +53,15 @@ class Team extends React.Component {
 				tenderloin ground round fatback flank spare ribs rump pork loin bresaola 
 				short ribs ham hock. 
 				</p>
-				<p>
+				<p id = "logo-info">
 				<i className="fas fa-phone w3-xlarge" id = "logo"></i>
 				500 600 700
 				</p>
-				<p>
+				<p id = "logo-info">
 				<i className="far fa-envelope w3-xlarge" id = "logo"></i>
 				Doge.Boss@CheesecakeForLife.ca
 				</p>
-				<p>
+				<p id = "logo-info">
 				<i class="fab fa-linkedin w3-xlarge" id = "logo"></i>
 				Doge needs no profile.
 				</p>

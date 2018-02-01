@@ -51,11 +51,14 @@ class SideBar extends React.Component {
           <i className="fa fa-users w3-xxlarge" style={iconStyle}></i>
           <p>SPONSORS</p>
         </a>
+        </Link>
+        <Link to='/team'>
         <a href="#team" className="w3-bar-item w3-button w3-padding-large w3-hover-black">
           <i className="fa fa-address-card w3-xxlarge" style={iconStyle}></i>
           <p>MEET THE TEAM</p>
         </a>
         </Link>
+
       </nav>
 
       <div className="w3-top w3-hide-large w3-hide-medium" id="myNavbar">
@@ -76,7 +79,7 @@ class SideBar extends React.Component {
           <a href="#sponsors" className="w3-bar-item w3-button" style={linkStyle}>SPONSORS</a>
           </Link>
           <Link to='/team'>
-          <a href="#team" className="w3-bar-item w3-button w3-padding-large" style={linkStyle}>SPONSORS</a>
+          <a href="#team" className="w3-bar-item w3-button w3-padding-large" style={linkStyle}>TEAM</a>
           </Link>
         </div>
       </div>
