@@ -8,8 +8,8 @@ class Timeline extends React.Component {
       <section className="section-spacing text-center" id="features">
          <div className="container">
             <header className="section-header">
-               <h2>Versions of Cartwheel</h2>
-               <h3>Reasons why you should choose this product</h3>
+               <h2>INITIATIVES</h2>
+               <h3>Events you should check out!</h3>
             </header>
             <div className="container-fluid">
                <div className="row">
@@ -18,18 +18,15 @@ class Timeline extends React.Component {
                         <li className="timeline wow bounceInUp">
                            <div className="timeline-badge warning"><i className="fa fa-bullseye"></i></div>
                            <div className="date-info">
-                              <span className="day">29</span><span className="month"> Jan</span><span className="year"> 2017</span>
+                             <span className="day"> Now</span>
                            </div>
                            <div className="timeline-panel">
                               <div className="timeline-heading">
-                                 <h6 className="timeline-title">Version 1.0.2 Released with user identified fixes/enhancements</h6>
+                                 <h6 className="timeline-title">Mentorship</h6>
                               </div>
                               <div className="timeline-body">
                                  <p>
-                                    Release highlights :
-                                    Layout changed inline with other Cartwheel applications. (Menu based and full-screen).
-                                    Introduced filters and sorting of Actions items.
-                                    Print facility to support printing of any saved reports (including previous reports)
+                                    1000 girls, 1000 futures mentorship program by <a href="https://www.nyas.org/programs/global-stem-alliance/1000-girls-1000-futures/"> <em>New York Academy of Sciences</em></a>
                                  </p>
                               </div>
                            </div>
@@ -41,14 +38,11 @@ class Timeline extends React.Component {
                            </div>
                            <div className="timeline-panel">
                               <div className="timeline-heading">
-                                 <h6 className="timeline-title">Version 1.0.2 Released with user identified fixes/enhancements</h6>
+                                 <h6 className="timeline-title"><a href="https://docs.google.com/document/d/1kwea5nTqtOosPAktR_GZD8OMGzSQtQpmEM8uIAnGc3c/edit"> GreenPlastics Article Competition</a></h6>
                               </div>
                               <div className="timeline-body">
                                  <p>
-                                    Release highlights :
-                                    Layout changed inline with other Cartwheel applications. (Menu based and full-screen).
-                                    Introduced filters and sorting of Actions items.
-                                    Print facility to support printing of any saved reports (including previous reports)
+                                    $800 cash awards and global journal publication.
                                  </p>
                               </div>
                            </div>
@@ -60,14 +54,11 @@ class Timeline extends React.Component {
                            </div>
                            <div className="timeline-panel">
                               <div className="timeline-heading">
-                                 <h6 className="timeline-title">Version 1.0.2 Released with user identified fixes/enhancements</h6>
+                                 <h6 className="timeline-title">SPE mentorship program</h6>
                               </div>
                               <div className="timeline-body">
                                  <p>
-                                    Release highlights :
-                                    Layout changed inline with other Cartwheel applications. (Menu based and full-screen).
-                                    Introduced filters and sorting of Actions items.
-                                    Print facility to support printing of any saved reports (including previous reports)
+                                    Want to help?  Become a mentor now by <a href="https://www.4spe.org/membership/"><em> clicking here</em></a>!
                                  </p>
                               </div>
                            </div>
