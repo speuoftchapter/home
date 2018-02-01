@@ -62,64 +62,7 @@ class Timeline extends React.Component {
                                  </p>
                               </div>
                            </div>
-                        </li>
-                        <li className="timeline-inverted wow bounceInUp">
-                           <div className="timeline-badge danger"><i className="fa fa-crosshairs"></i></div>
-                           <div className="date-info">
-                              <span className="day">25</span><span className="month"> Jan</span><span className="year"> 2016</span>
-                           </div>
-                           <div className="timeline-panel">
-                              <div className="timeline-heading">
-                                 <h6 className="timeline-title">Version 1.0.2 Released with user identified fixes/enhancements</h6>
-                              </div>
-                              <div className="timeline-body">
-                                 <p>
-                                    Release highlights :
-                                    Layout changed inline with other Cartwheel applications. (Menu based and full-screen).
-                                    Introduced filters and sorting of Actions items.
-                                    Print facility to support printing of any saved reports (including previous reports)
-                                 </p>
-                              </div>
-                           </div>
-                        </li>
-                        <li className="timeline wow bounceInUp">
-                           <div className="timeline-badge danger"><i className="fa fa-crosshairs"></i></div>
-                           <div className="date-info">
-                              <span className="day">25</span><span className="month"> Jan</span><span className="year"> 2016</span>
-                           </div>
-                           <div className="timeline-panel">
-                              <div className="timeline-heading">
-                                 <h6 className="timeline-title">Version 1.0.2 Released with user identified fixes/enhancements</h6>
-                              </div>
-                              <div className="timeline-body">
-                                 <p>
-                                    Release highlights :
-                                    Layout changed inline with other Cartwheel applications. (Menu based and full-screen).
-                                    Introduced filters and sorting of Actions items.
-                                    Print facility to support printing of any saved reports (including previous reports)
-                                 </p>
-                              </div>
-                           </div>
-                        </li>
-                        <li className="timeline-inverted wow bounceInUp">
-                           <div className="timeline-badge danger"><i className="fa fa-crosshairs"></i></div>
-                           <div className="date-info">
-                              <span className="day">25</span><span className="month"> Jan</span><span className="year"> 2016</span>
-                           </div>
-                           <div className="timeline-panel">
-                              <div className="timeline-heading">
-                                 <h6 className="timeline-title">Version 1.0.2 Released with user identified fixes/enhancements</h6>
-                              </div>
-                              <div className="timeline-body">
-                                 <p>
-                                    Release highlights :
-                                    Layout changed inline with other Cartwheel applications. (Menu based and full-screen).
-                                    Introduced filters and sorting of Actions items.
-                                    Print facility to support printing of any saved reports (including previous reports)
-                                 </p>
-                              </div>
-                           </div>
-                        </li>
+                        </li>            
                      </ul>
                   </div>
                </div>

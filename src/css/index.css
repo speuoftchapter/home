@@ -35,9 +35,9 @@ body {
 footer {
   position: absolute;
   right: 0;
-  bottom: 0;
+  bottom: 0px;
   left: 0;
-  padding: 1rem;
+
   background-color: #fffff;
   text-align: center;
 }
