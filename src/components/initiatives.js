@@ -1,5 +1,5 @@
 import React from 'react'
-import initiative from './initiative'
+import Initiative from './initiative'
 import Timeline from './timeline'
 
 class Initiatives extends React.Component {
@@ -13,11 +13,11 @@ class Initiatives extends React.Component {
 	render() {
 		var eventList = this.state.events.map(event => {
 			return(
-			<Initiatives initiative = {event}/>
+			<Initiatives initiative={event}/>
 			)
 		});
 		return (
-			<div>
+			<div className="w3-container">
 			<Timeline/>
 			</div>
 

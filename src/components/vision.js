@@ -1,6 +1,6 @@
 import React from 'react';
 
-class Philosophy extends React.Component {
+class Vision extends React.Component {
 	render() {
 		var hrStyle = {
 			width:'200px'
@@ -12,17 +12,13 @@ class Philosophy extends React.Component {
 		  <div className="w3-content w3-justify w3-text-grey w3-padding-64" id="about">
 		    <h2 className="w3-text-light-grey">About Us</h2>
 		    <hr style={hrStyle} className="w3-opacity"/>
-						<p> Bacon ipsum dolor amet ham tongue beef strip steak, 
-						tenderloin ground round fatback flank spare ribs rump pork loin bresaola 
-						short ribs ham hock. 
-						</p>
-						<p>Salami bacon buffalo pork belly, shank ham hock kevin tri-tip
-						swine fatback chuck pastrami shoulder jerky. Cupim ham hock t-bone pork loin jowl
-						shankle porchetta tail. 
-						</p>
-						<p>Burgdoggen boudin venison drumstick biltong filet mignon. 
-						Picanha pastrami jerky, corned beef hamburger rump burgdoggen t-bone flank turkey
-						beef shankle strip steak.</p>
+						<p> The SPE UofT Chapter aims to expand the horizons 
+						of the next generation of leaders and innovators in polymer 
+						science, engineering, management, and policy within plastics 
+						industry. The SPE UofT Chapter will enhance the ability of 
+						the UofT’s most promising students by facilitating the 
+						resources and skills to serve as leaders in their fields 
+						and in society. </p>
 		    <h3 className="w3-padding-16 w3-text-light-grey">Brief Summary</h3>
 		    <div className="w3-row w3-center w3-padding-16 w3-section w3-light-grey">
 		      <div className="w3-col s4 w3-center w3-section">
@@ -52,4 +48,4 @@ class Philosophy extends React.Component {
 		);
 	}
 }
-export default Philosophy
+export default Vision

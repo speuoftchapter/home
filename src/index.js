@@ -8,7 +8,7 @@ import SideBar from './components/sidebar'
 import Header from './components/header'
 import Footer from './components/footer'
 import Initiatives from './components/initiatives'
-import Philosophy from './components/philosophy'
+import Vision from './components/vision'
 import Sponsors from './components/sponsors'
 import Contact from './components/contact'
 import Team from './components/team'
@@ -20,7 +20,7 @@ class Main extends React.Component {
         <SideBar />
         <div className="w3-padding-large" id="main">
         <Route exact path="/home" component={Header} />
-        <Route path="/philosophy" component={Philosophy} />
+        <Route path="/vision" component={Vision} />
         <Route path="/initiatives" component={Initiatives} />
         <Route path="/contact" component={Contact} />
         <Route path="/sponsors" component={Sponsors} />
