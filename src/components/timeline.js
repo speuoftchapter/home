@@ -30,6 +30,11 @@ class Timeline extends React.Component {
                         content="Want to help?  Become a mentor now"
                         link="https://www.4spe.org/membership/"/>
 
+                        <Initiative pos={false} day="" month="" year=""
+                        title="Article Competition"
+                        content="Submit an article that focus on any one relevant modern sustainability topic within the plastics industry, including but not limited to plastics, food packaging, water bottles, sanitary equipment, ocean waste etc.
+                        SPE TPM&F Division to sponsor two cash prizes: $500 (first place) and $300 (second place)."
+                        link="./events/article-competition"/>
                      </ul>
                   </div>
                </div>

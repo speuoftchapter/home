@@ -35,6 +35,7 @@ footer {
   margin-left: 120px;
   border-left: 1px solid gray;
   padding: 1em;
+  padding-left: 120px;
   overflow: hidden;
 }
 
