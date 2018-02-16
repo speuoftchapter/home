@@ -149,14 +149,12 @@
     position: absolute;
     top: -2px;
     left: 40%;
-    margin-left: -28px;
+    margin-left: -47px;
     width: 100px;
 }
 .timeline-inverted .date-info{
-        left: 51%;
+    left: 53%;
 }
-
-
 .date-info .month{
     position: absolute;
     top: 10px;
@@ -213,5 +211,17 @@
         position: initial;
         font-size: 12px;
     }
-
+}
+.infoButton{
+    color: black;
+    border: none;
+    border-radius: 5px;
+    width:140px;
+    font-size: 13px;
+}
+input.infoButton:active{
+    background-color: grey;
+}
+input.infoButton:hover{
+    background-color: silver;
 }
