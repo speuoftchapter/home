@@ -18,8 +18,9 @@ class Timeline extends React.Component {
 
                         <Initiative pos={true} day="" month="Now" year=""
                         title="Mentorship"
-                        content="1000 girls, 1000 futures mentorship program New York Academy of Sciences"/>
-
+                        content="1000 girls, 1000 futures mentorship program New York Academy of Sciences"
+                        link="https://www.nyas.org/programs/global-stem-alliance/1000-girls-1000-futures/"/>
+                        
                         <Initiative pos={false} day={4} month="Feb" year="2017"
                         title="GreenPlastics Article Competition"
                         content="$800 cash awards and global journal publication."
