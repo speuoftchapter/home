@@ -20,7 +20,9 @@ class Initiative extends React.Component {
                      {this.props.content}
                      </p>
                      <br/>
-                     <button type="button" className="timeline-button" href={this.props.link}>Click for More Info</button>
+                     <form action={this.props.link}>
+                         <input type="submit" value="Click for More Info" />
+                     </form>
                   </div>
                </div>
             </li>
